@@ -1,0 +1,5 @@
+package j22;
+
+public class Stringed_Instrument extends instrument{
+
+}

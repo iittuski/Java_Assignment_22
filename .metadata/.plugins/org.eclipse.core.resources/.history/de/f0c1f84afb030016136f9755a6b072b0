@@ -1,0 +1,8 @@
+package j22;
+
+public abstract class abstract1 {
+	String name;
+	
+	abstract void play();
+
+}

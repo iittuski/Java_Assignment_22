@@ -1,0 +1,9 @@
+package j22;
+
+public class ElectricBassGuitar extends Stringed_Instrument{
+
+	public static void main(String args[]){
+		void play();
+		
+	}
+}
